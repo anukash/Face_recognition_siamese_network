@@ -1,7 +1,7 @@
 # Face_recognition_siamese_network
 Here i have tried to implement the paper on face recognition using siamese network.
 
-link for the paper : https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+Paper link : https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
 Results:
 
